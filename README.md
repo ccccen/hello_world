@@ -1,7 +1,7 @@
 # hello_world
 
 ################
-#Emmanuel Tejeda#
+Emmanuel Tejeda
 ################
 
 
